@@ -1,7 +1,7 @@
-covid_19_data
+covid 2019 data analysis 
 ==============================
 
-Covid data analysis
+This repository explores the covid 2019 confirmed cases, vaccinations rates and also provides dynamic dashboard to analyze data.
 
 Project Organization
 ------------
@@ -53,5 +53,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
