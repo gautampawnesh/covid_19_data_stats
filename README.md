@@ -10,6 +10,7 @@ CRISP: CRoss-Industry Standard Process for Data Mining
 Model 
 _________
 SIR Model for the spread of disease 
+
 ![SIR][SIR]
 
 This repository explores the covid 2019 confirmed cases, vaccinations rates and also provides dynamic dashboard to analyze data.
@@ -64,7 +65,10 @@ Project Organization
 
 
 --------
+References:
+------------
 
+[1] https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model
 
 [crisp]: docs/crisp.jpeg
 [SIR]: docs/SIR_model.png
