@@ -1,6 +1,17 @@
 covid 2019 data analysis 
 ==============================
 
+Framework 
+__________
+CRISP: CRoss-Industry Standard Process for Data Mining 
+
+![CRISP][crisp]
+
+Model 
+_________
+SIR Model for the spread of disease 
+![SIR][SIR]
+
 This repository explores the covid 2019 confirmed cases, vaccinations rates and also provides dynamic dashboard to analyze data.
 
 Project Organization
@@ -53,3 +64,7 @@ Project Organization
 
 
 --------
+
+
+[crisp]: docs/crisp.jpeg
+[SIR]: docs/SIR_model.png
